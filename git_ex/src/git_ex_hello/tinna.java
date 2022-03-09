@@ -1,4 +1,4 @@
-package git_ex_hello;
+package tinna;
 
 public class tinna {
 
